@@ -59,7 +59,7 @@ public:
 };
 int main()
 {
-    creditcardholder c("Shams","","Tabrez","10/6",700080,300.00);
+    creditcardholder c("Shams","","Tabrez","10/6",700080,301.00);
     c.display();
     return 0;
 }
